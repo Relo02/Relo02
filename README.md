@@ -5,7 +5,7 @@ I'm passionate about **robot perception**, **autonomous control systems**, and *
 ### 🚀 Current Projects
 
 - 🔧 **Model Predictive Control (MPC) for FALCO Autonomous Drone**  
-  Developing an MPC-based control system to enable precise and adaptive flight control for the FALCO drone platform.
+  Developing an MPC-based control system to derive a predicted optimal trajectory that allows the drone to perform in advance obstacle avoidance.
 
 - 🤖 **Leonardo Drone Contest – Autonomous Robotics Challenge**  
   Participating in the Leonardo Drone Contest organized by *Leonardo S.p.A.*, focused on multi-agent autonomous navigation in environments with known and unknown obstacles.  
