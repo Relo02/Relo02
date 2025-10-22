@@ -1,27 +1,8 @@
-## 👋 Hi, I'm a Robotics Systems and Control Engineer
+## 👋 Hi, I'm Lorenzo
 
-I'm passionate about **robot perception**, **autonomous control systems**, and **machine learning**. I work at the intersection of software, control theory, and intelligent behavior for real-world robotic systems.
+**ROBOTICS**, **MACHINE LEARNING**, and **CONTROL SYSTEMS**. I work at the intersection of software, control theory, and intelligent behavior for real-world robotic systems.
 
-### 🚀 Current Projects
+## Languages and Tools
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,ros,matlab,pytorch)](https://skillicons.dev)
 
-- 🔧 **Model Predictive Control (MPC) for FALCO Autonomous Drone**  
-  Developing an MPC-based control system to derive a predicted optimal trajectory that allows the drone to perform in advance obstacle avoidance.
-
-- 🤖 **Leonardo Drone Contest – Autonomous Robotics Challenge**  
-  Participating in the Leonardo Drone Contest organized by *Leonardo S.p.A.*, focused on multi-agent autonomous navigation in environments with known and unknown obstacles.  
-  Contributions include:
-  - Path planning and real-time obstacle avoidance for a drone and ground robot.
-  - Vision-based detection using **YOLO** and **ArUco markers**.
-  - PTZ camera integration for **QR code recognition**, enabling coordinated task execution between agents.
-
-- 🧠 **Reinforcement Learning for Robotics**  
-  Exploring the use of RL algorithms to develop control systems that learn optimal actions through interaction, reducing reliance on uncertain or incomplete models.
-
-### 💡 Interests
-- Autonomous systems and robot navigation  
-- Vision-based perception and object detection
-- Machine Learning architectures for computer vision (NN, CNN)
-- Learning-based control (e.g., RL, imitation learning)  
-- Multi-agent systems and coordination  
-
-Let's connect and build the future of robotics!
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
