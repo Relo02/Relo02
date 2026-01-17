@@ -108,7 +108,7 @@ This project is in development phase.
 
 ---
 
-⭐ *I enjoy turning into robotic systems complex autonomous software.*
+⭐ *I enjoy turning robotic systems and complex autonomous software into reality.*
 
 
 ## Languages and Tools
