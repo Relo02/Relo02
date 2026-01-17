@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Relo02  
+# 👋 Hi, I’m Lorenzo  
 ### Robotics & Autonomous Systems Developer  
 **UAVs · Sensor Fusion · Control · ROS 2 · SLAM · Machine Learning**
 
