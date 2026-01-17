@@ -38,7 +38,7 @@ My projects combine **theoretical foundations** (control, estimation, optimizati
 
 ### ✈️ Drone Optimal Trajectory
 **Drone-optimal-trajectory**  
-Optimal trajectory planning and control for UAVs using ROS 2, PX4, and advanced control techniques.
+Optimal trajectory planning through MPC for UAVs using ROS 2, Gazebo, PX4.
 This project is in development phase.
 ➡️ https://github.com/Relo02/Drone-optimal-trajectory
 
@@ -60,14 +60,14 @@ Robotics fundamentals applied to localization, odometry, and control (ground rob
 
 ### 🌐 ROS 2 Environment
 **Ros-2-Environment**  
-ROS 2 Humble simulation environment for robotics and UAV experimentation.  
+ROS 2 Humble simulation environment for UAV control system experimentation with obstacle awareness for enabling smart landing proceedure.  
 ➡️ https://github.com/FALCOdrone/Ros-2-Environment
 
 ---
 
 ### 🧠 Artificial Neural Networks & Deep Learning
 **Artificial-neural-networks-and-deep-learning-**  
-Academic and practical work on neural networks and deep learning concepts.  
+Academic and practical work on neural networks and deep learning concepts. 
 ➡️ https://github.com/Relo02/Artificial-neural-networks-and-deep-learning-
 
 ---
