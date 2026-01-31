@@ -86,8 +86,7 @@ This project is in development phase.
 - **Control & Planning:** MPC, optimal control, trajectory optimization  
 - **Estimation & Perception:** EKF, Visual SLAM, VIO  
 - **Sensors:** IMU, GPS, LiDAR, stereo cameras  
-- **Languages:** C++, Python  
-- **ML/DL:** Neural networks, deep learning foundations
+- **ML/DL:** Neural networks, deep learning
 
 ---
 
