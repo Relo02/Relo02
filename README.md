@@ -60,7 +60,7 @@ Robotics fundamentals applied to localization, odometry, and control (ground rob
 
 ### ROS 2 Environment
 **Ros-2-Environment**  
-ROS 2 Humble simulation environment for UAV control system experimentation with obstacle awareness for enabling smart landing proceedure.  
+ROS 2 Humble simulation environment for UAV control system experimentation with obstacle awareness for enabling smart landing procedure.  
 ➡️ https://github.com/FALCOdrone/Ros-2-Environment
 
 ---
