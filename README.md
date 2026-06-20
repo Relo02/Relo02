@@ -123,8 +123,6 @@ Robot-agnostic autonomous navigation framework using rolling-horizon planning, n
 
 #### Drone Optimal Trajectory
 
-**Drone-optimal-trajectory**
-
 Completed UAV trajectory planning project using MPC-based approaches for quadrotor navigation with ROS 2, Gazebo, and PX4.
 
 ➡️ https://github.com/Relo02/Drone-optimal-trajectory
@@ -132,8 +130,6 @@ Completed UAV trajectory planning project using MPC-based approaches for quadrot
 ---
 
 #### Quadcopter Sensor Fusion
-
-**Quadcopter-Sensor-Fusion**
 
 Completed EKF-based sensor fusion framework for quadrotor state estimation using multiple onboard sensors.
 
@@ -143,8 +139,6 @@ Completed EKF-based sensor fusion framework for quadrotor state estimation using
 
 #### ROS 2 Environment
 
-**Ros-2-Environment**
-
 Completed ROS 2 Humble simulation environment for UAV control-system experimentation, obstacle awareness, and smart landing procedures.
 
 ➡️ https://github.com/FALCOdrone/Ros-2-Environment
@@ -153,8 +147,6 @@ Completed ROS 2 Humble simulation environment for UAV control-system experimenta
 
 #### Artificial Neural Networks & Deep Learning
 
-**Artificial-neural-networks-and-deep-learning-**
-
 Academic and practical work on neural networks and deep learning concepts.
 
 ➡️ https://github.com/Relo02/Artificial-neural-networks-and-deep-learning-
@@ -162,8 +154,6 @@ Academic and practical work on neural networks and deep learning concepts.
 ---
 
 #### Visual SLAM
-
-**Visual-Slam**
 
 Visual SLAM and VIO pipelines using stereo / RGB-D sensors for pose estimation and mapping.
 
