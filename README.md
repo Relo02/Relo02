@@ -184,17 +184,6 @@ Visual SLAM and VIO pipelines using stereo / RGB-D sensors for pose estimation a
 
 ---
 
-## 🧭 My Robotics Deployment Approach
-
-1. Understand the task, robot platform, and environment constraints
-2. Build reliable perception and state-estimation pipelines
-3. Design feasible planning and control strategies
-4. Validate behavior in simulation before real-world execution
-5. Deploy on hardware with safety, robustness, and monitoring
-6. Iterate using real-world data to improve robot autonomy
-
----
-
 ## 📫 Contact
 
 * Email: [ortolore@gmail.com](mailto:ortolore@gmail.com)
