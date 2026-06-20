@@ -115,4 +115,4 @@ This project is in development phase.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Relo02)](https://github.com/anuraghazra/github-readme-stats)
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Relo02/Relo02/output/github-contribution-grid-snake.svg)
