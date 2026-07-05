@@ -68,16 +68,16 @@ This work presents a robot-agnostic autonomous navigation framework that combine
 
 ## 📂 Featured Projects
 
-### Physical AI / Legged Robotics
+### Legged Robotics
 
 #### Go2 Navigation
 
 **Bayesian Optimization for Learning Nonlinear MPC in Autonomous Agent Navigation**
 
-Robot-agnostic autonomous navigation framework using rolling-horizon planning, nonlinear MPC, Bayesian Optimization, and sim-to-real validation on a Unitree Go2 quadruped robot.
+Robot-agnostic autonomous navigation framework using rolling-horizon planning, nonlinear MPC, Bayesian Optimization, and sim-to-real validation on a Unitree Go2 quadruped robot. The same pipeline is also testd into the unitree G1 robot
 
 ➡️ https://github.com/talos-robotics-ai/Go2_navigation
-
+➡️ https://github.com/Relo02/Navigation
 ---
 
 ### UAV & Robotics Projects
