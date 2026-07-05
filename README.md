@@ -12,45 +12,6 @@ My background combines **optimal control**, **state estimation**, **robot naviga
 
 ---
 
-## 🧠 Current Focus: Physical AI & Humanoid VLA Systems
-
-At **Talos Robotics AI**, I work on enhancing **humanoid Vision-Language-Action systems** along with **Reinforcement Learning** for industrial applications.
-
-My current interests include:
-
-* **Physical AI for industrial robotics**
-
-  * Turning high-level human instructions into executable robot behaviors
-  * Bridging perception, reasoning, simulation, and real-world deployment
-
-* **Humanoid robotics**
-
-  * Task execution on real industrial floors
-  * Multi-modal robot understanding for tools, objects, people, and workspaces
-
-* **Vision-Language-Action models**
-
-  * Grounding language commands into robot actions
-  * Improving robustness, safety, and task generalization
-  * Enhancing humanoid autonomy for practical industrial workflows
-
-* **Sim-to-real robotics**
-
-  * Validating behaviors in simulation before deployment
-  * Building reliable pipelines from task description to real robot execution
-
----
-
-## 🏢 Talos Robotics AI
-
-**Co-founder — [Talos Robotics AI](https://talosrobotics.ai/)**
-
-Talos Robotics AI is building a **Physical AI OS for humanoid robots**, designed to make robots useful in real-world industrial environments.
-
-The goal is to let users describe a task in plain language, test it in simulation, and deploy it on a physical humanoid robot with perception, planning, and safety integrated into one platform.
-
----
-
 ## 📄 Publication
 
 ### Bayesian Optimization for Learning Nonlinear MPC in Autonomous Agent Navigation
