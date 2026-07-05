@@ -78,6 +78,7 @@ Robot-agnostic autonomous navigation framework using rolling-horizon planning, n
 
 ➡️ https://github.com/talos-robotics-ai/Go2_navigation
 ➡️ https://github.com/Relo02/Navigation
+
 ---
 
 ### UAV & Robotics Projects
