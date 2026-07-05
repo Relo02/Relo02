@@ -70,7 +70,7 @@ This work presents a robot-agnostic autonomous navigation framework that combine
 
 ### Legged Robotics
 
-#### Go2 Navigation
+#### Go2/G1 Navigation
 
 **Bayesian Optimization for Learning Nonlinear MPC in Autonomous Agent Navigation**
 
