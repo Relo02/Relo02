@@ -77,6 +77,7 @@ This work presents a robot-agnostic autonomous navigation framework that combine
 Robot-agnostic autonomous navigation framework using rolling-horizon planning, nonlinear MPC, Bayesian Optimization, and sim-to-real validation on a Unitree Go2 quadruped robot. The same pipeline is also testd into the unitree G1 robot
 
 ➡️ https://github.com/talos-robotics-ai/Go2_navigation
+
 ➡️ https://github.com/Relo02/Navigation
 
 ---
