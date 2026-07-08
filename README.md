@@ -6,8 +6,6 @@
 
 I work on **robotics and autonomous systems**, with a current focus on **Physical AI for industrial humanoid robots**.
 
-I am currently one of the **co-founders of [Talos Robotics AI](https://talosrobotics.ai/)**, where we are building **TalOS**, a Physical AI operating system that helps humanoid robots understand tasks, reason about the environment, validate actions in simulation, and execute useful work in real industrial settings.
-
 My background combines **optimal control**, **state estimation**, **robot navigation**, **ROS 2 systems**, and **machine learning**, with completed work on UAV autonomy and current research/development on **Vision-Language-Action systems for humanoid robots**.
 
 ---
@@ -27,7 +25,6 @@ This work presents a robot-agnostic autonomous navigation framework that combine
 * Simulation-to-real deployment on a Unitree Go2 quadruped robot
 
 * Paper: https://arxiv.org/abs/2606.14763
-* Code: https://github.com/talos-robotics-ai/Go2_navigation
 
 ---
 
@@ -141,7 +138,6 @@ Visual SLAM and VIO pipelines using stereo / RGB-D sensors for pose estimation a
 
 * Email: [ortolore@gmail.com](mailto:ortolore@gmail.com)
 * LinkedIn: https://www.linkedin.com/in/lorenzo-ortolani-6135b7240/
-* Talos Robotics AI: https://talosrobotics.ai/
 
 ---
 
