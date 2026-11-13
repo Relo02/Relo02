@@ -10,30 +10,6 @@ My background combines **optimal control**, **state estimation**, **robot naviga
 
 ---
 
-## 📄 Publication
-
-### Bayesian Optimization for Learning Nonlinear MPC in Autonomous Agent Navigation
-
-**Accepted at IEEE ICRA 2026 Xplore Workshop — Oral Presentation**
-
-This work presents a robot-agnostic autonomous navigation framework that combines:
-
-* LiDAR-based Gaussian occupancy representation
-* A* rolling-horizon planning
-* Nonlinear Model Predictive Control
-* Bayesian Optimization for MPC parameter tuning
-* Simulation-to-real deployment on a Unitree Go2 quadruped robot
-
-* Paper: https://arxiv.org/abs/2606.14763
-
----Go2 quadruped robot. The same pipeline is also testd into the unitree G1 robot
-
-➡️ https://github.com/talos-robotics-ai/Go2_navigation
-
-➡️ https://github.com/Relo02/Navigation
-
----
-
 ## 📫 Contact
 
 * Email: [ortolore@gmail.com](mailto:ortolore@gmail.com)
