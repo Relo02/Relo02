@@ -10,10 +10,11 @@ My background combines **optimal control**, **state estimation**, **robot naviga
 
 ---
 
-## 📫 Contact
+## 📫 Contact & Links
 
-* Email: [ortolore@gmail.com](mailto:ortolore@gmail.com)
-* LinkedIn: https://www.linkedin.com/in/lorenzo-ortolani-6135b7240/
+* [ortolore@gmail.com](mailto:ortolore@gmail.com)
+* [LinkedIn](https://www.linkedin.com/in/lorenzo-ortolani-6135b7240/)
+* [Google scholar](https://scholar.google.com/citations?user=IpOQstwAAAAJ&hl=it)
 
 ---
 
